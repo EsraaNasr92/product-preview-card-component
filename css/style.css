@@ -87,18 +87,15 @@ body{
 .product_info-btn:hover{
     background-color: hsl(160, 38%, 23%);
 }
-.attribution{
+footer{
     font-family: 'Montserrat', sans-serif;
     text-align: center;
     margin-top: 20px;
 }
-.attribution a{
+footer a{
     text-decoration: none;
-    color: hsl(158, 36%, 37%);
 }
-.attribution a:hover{
-    color: hsl(160, 38%, 23%);
-}
+
 .product_image-mobile{
     display: none;
 }
